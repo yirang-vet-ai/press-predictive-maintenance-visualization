@@ -1,6 +1,16 @@
 # press-predictive-maintenance-visualization
 AI-based predictive maintenance visualization for press manufacturing using AI4I dataset
 
+
+This repository is for team members working on the AJIN SILI competition.
+
+The goal is to understand:
+- How machine data relates to failure
+- How predictive maintenance works
+- How to visualize industrial AI insights
+
+우리가 왜 예지보전을 해야 하는지 설명하는 시각화 자료 코드 파일
+
 # Press Predictive Maintenance Visualization
 
 AI-based predictive maintenance visualization project for press manufacturing systems.
